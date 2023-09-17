@@ -5,6 +5,8 @@ Hi, I'm Rashi Agarwal
 	</a>
 </h1>
 
+## 🖥️ About Me
+<img src="https://raw.githubusercontent.com/rasshiagarwala33/rasshiagarwala33/32c162fcb84f33e46ac5d652b6d0914099e1a6ad/rasshiagrwala3399.svg">
 <hr>
 
 <pre>
